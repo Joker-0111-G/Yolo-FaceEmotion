@@ -2,6 +2,8 @@
 
 > 基于 YOLOv8s-cls 和 FER2013 数据集的实时人脸表情识别系统  
 > 支持实时摄像头检测、图片识别、模型训练与评估
+>
+> https://github.com/Joker-0111-G/Yolo-FaceEmotion
 
 <p align="center">
   <img src="https://img.shields.io/badge/YOLOv8s--cls-00FFFF?logo=ultralytics" />
